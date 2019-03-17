@@ -21,7 +21,7 @@ body{
 h1{
     margin-bottom: 10px;
     font-weight: bold;
-    color: rgb(26, 10, 83);
+    color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -39,7 +39,7 @@ p.description{
     font-size: 1.2em;
     margin: 10px 0;
     font-weight: bold;
-    color: rgb(26, 10, 83);
+    color: white;
 }
 
 ol{
@@ -48,17 +48,18 @@ ol{
 }
 
 li{
-    color: rgb(12, 101, 160);
+    color: rgb(36, 129, 192);
     font-size: 1.3em
 }
 
 h2{
-    color: rgb(26, 10, 83);
+    color: white;
     text-align: center;
 }
 
 p{
+    font-weight: 900;
     margin: 5px 0 10px 0;
-    color: rgb(12, 101, 160);
+    color: rgb(36, 129, 192);
     text-align: center;
 }
